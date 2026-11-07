@@ -1,0 +1,16 @@
+# FFHQ data and course manifest (not redistributed here)
+ffhq128/
+thumbnails128x128/
+ffhq128_split_manifest.csv
+
+# Checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
